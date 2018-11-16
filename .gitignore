@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+.project
+.pydevproject
+.classpath
+target/
+doc/
+home/
+.svn/

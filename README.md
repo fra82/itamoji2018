@@ -5,7 +5,5 @@ organized in the context of <a href="http://www.evalita.it/2018" target="_blank"
 
 More info at: <a href="https://sites.google.com/view/itamoji/" target="_blank">https://sites.google.com/view/itamoji/</a>.  
   
-  
-In this repository you can find:  
-  
-+ ITAmoji Python Evaluation Script: 
+   
++ ITAmoji Python Evaluation Script: <a href="https://github.com/fra82/itamoji2018/blob/master/itamoji/eval/evaluationScript_P.py" target="_blank">evaluationScript_P.py</a>
