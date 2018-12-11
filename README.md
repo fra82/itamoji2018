@@ -10,7 +10,7 @@ More info at: <a href="https://sites.google.com/view/itamoji/" target="_blank">h
 + Runs submitted by participating systems in the *system_runs* folder (there is one sub-folder for each participating team including all the runs submitted, one file per run). The format of the run submission is explained into details at: <a href="https://sites.google.com/view/itamoji/data-and-tools" target="_blank">https://sites.google.com/view/itamoji/data-and-tools</a>  
   
   
-# Obtaining train and test dataset  
+# Obtaining train and test datasets  
   
 It is possible to download the train and test dataset as a password-protected ZIP archives from the following links:  
   
